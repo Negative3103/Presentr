@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "Presentr",
-            path: "Sources/Presentr"
+            path: "Presentr"
         )
     ]
 )
