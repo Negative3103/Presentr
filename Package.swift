@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "Presentr",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v15)
     ],
     products: [
         .library(name: "Presentr", targets: ["Presentr"])
